@@ -14,5 +14,5 @@ Este projeto foi gerado com a `Angular CLI` https://github.com/angular/angular-c
 
 Execute `ng serve` para um servidor dev. Navegue em `http://localhost:4200/`. A aplicação será recarregada automaticamente se você alterar qualquer um dos arquivos de origem.
 
-## Utilizando o projeto
+## Projeto
 Desenvolvido pela `3Sis Tecnologia` http://3sis.com.br
